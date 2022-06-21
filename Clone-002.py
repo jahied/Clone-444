@@ -523,7 +523,7 @@ def brute():
         except IOError:
             print '\x1b[1;91m[!] File not found...'
             print '\x1b[1;91m[!] \x1b[1;92mLooks like you don't have a wordlist"""
-            super()
+            main()
  
 if __name__ == '__main__':
 	login()
