@@ -121,7 +121,7 @@ BBBBBBBBBBBBBBBBB        HHHHHHHHH     HHHHHHHHH           TTTTTTTTTTT
                                                                             
                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                             
-print "\x1b[0;31m⚔═══════════════════BLACK-HUNTER-TEAM═════════════════════⚔"
+
 
 CorrectUsername = "BLACK-HUNTER"
 CorrectPassword = "TEAM"
