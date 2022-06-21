@@ -127,9 +127,8 @@ BBBBBBBBBBBBBBBBB        HHHHHHHHH     HHHHHHHHH           TTTTTTTTTTT
                                                                                                                      
                                                  
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """
-\033[1;93m [¤] \x1b[0;31mBLACK-HUNTER-TEAM\x1b[1;96m   
-\033[1;93m [¤] \x1b[0;31mFACEBOOK:ROOT.OFF.JAHIED\x1b[1;96m
+print  """\033[1;93m [¤] \x1b[0;31mBLACK-HUNTER-TEAM\x1b[1;96m   
+print  """\033[1;93m [¤] \x1b[0;31mFACEBOOK:BD-JAHIED\x1b[1;96m
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
  
 CorrectUsername = "BLACK-HUNTER"
