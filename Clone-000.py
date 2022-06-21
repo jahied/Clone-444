@@ -121,12 +121,6 @@ BBBBBBBBBBBBBBBBB        HHHHHHHHH     HHHHHHHHH           TTTTTTTTTTT
                                                                             
                                                                             
                                                                             
-                                                                            
-print "\x1b[0;31m⚔═══════════════════════════B.T.T═══════════════════════════⚔"
-
-
-
- 
 CorrectUsername = "BLACK-HUNTER"
 CorrectPassword = "TEAM"
  
